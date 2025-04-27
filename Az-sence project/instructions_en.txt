@@ -1,0 +1,17 @@
+
+# Project Setup Instructions
+
+1. Install the required libraries:
+   First, install all the required libraries by running:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Running the program:
+   After installing the dependencies, you can run the program using:
+   ```bash
+   python face_syncro2,0.py
+   ```
+
+3. The camera window will open, and the system will begin recognizing faces.
+   Attendance is registered manually after recognition using a button in the interface.
